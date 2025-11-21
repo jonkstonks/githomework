@@ -1,1 +1,3 @@
 # githomework
+
+- It is friday.
