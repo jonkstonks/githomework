@@ -4,6 +4,7 @@
 - It is saturday.
 - It is sunday funday!
 - It is monday.
+- CircuitMaker Student sakib.
 
 Customizing the terminal is too much fun.
 
