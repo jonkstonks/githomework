@@ -20,3 +20,4 @@ Not perfect, but a few improvements later:
 </details>
 
 - It is suddenly thursday.
+- It friday
