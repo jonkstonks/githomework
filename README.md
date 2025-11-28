@@ -17,3 +17,4 @@
 
 - What day is it
 - How is it thursday already
+- Friday
