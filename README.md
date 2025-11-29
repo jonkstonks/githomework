@@ -21,3 +21,4 @@ Not perfect, but a few improvements later:
 
 - It is suddenly thursday.
 - It friday
+- saturdayy
