@@ -1,4 +1,5 @@
 # githomework
+<details>
 
 - It is friday.
 - It is saturday.
@@ -8,7 +9,7 @@
 
 Customizing the terminal is too much fun.
 
-<details>
+
 <summary>Click to expand</summary>
 
 First attempt at customizing my terminal:
@@ -17,9 +18,11 @@ First attempt at customizing my terminal:
 Not perfect, but a few improvements later:
 ![Image1](/image2.png)
 
-</details>
+
 
 - It is suddenly thursday.
 - It friday
 - saturdayy
 - monday uh
+
+</details>
