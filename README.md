@@ -24,5 +24,6 @@ Not perfect, but a few improvements later:
 - It friday
 - saturdayy
 - monday uh
+- wednesday
 
 </details>
