@@ -20,8 +20,9 @@
 - What day is it
 - How is it thursday already
 - Friday
-- Monday, Tuesday :0
+- Monday, Tuesday
 - AAAAAAAAAAAAAAAAAAAA
+- AAAAAAAAAAAAAAAAAAA
   
   
 </details>
