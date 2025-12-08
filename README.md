@@ -26,5 +26,6 @@ Not perfect, but a few improvements later:
 - monday uh
 - wednesday
 - what's goin on in this branch
+- new week new branch
 
 </details>
