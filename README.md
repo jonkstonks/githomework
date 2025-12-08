@@ -13,10 +13,10 @@ Customizing the terminal is too much fun.
 <summary>Click to expand</summary>
 
 First attempt at customizing my terminal:
-![Image1](/image.png)
+![Image1](image.png)
 
 Not perfect, but a few improvements later:
-![Image1](/image2.png)
+![Image1](image2.png)
 
 
 
